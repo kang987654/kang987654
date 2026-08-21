@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jinwoo Kang (강진우)
 ### AI/ML Engineer & AI-Native Software Orchestrator
 
-> **"지능형 AI 모델 파인튜닝부터 실시간 경량 추론 알고리즘, 온디바이스 에이전트 오케스트레이션까지 구현하는 AI 엔지니어입니다."**
+> **"AI 모델 파인튜닝부터 실시간 경량 추론 알고리즘, 온디바이스 에이전트 오케스트레이션까지 구현하는 AI 엔지니어입니다."**
 
 [![Email](https://img.shields.io/badge/Email-kang987654%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:kang987654@naver.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-kang987654-181717?style=flat-square&logo=github)](https://github.com/kang987654)  
@@ -11,10 +11,10 @@
 
 ## 💡 About Me
 
-- 🧠 **AI/ML 모델 최적화 & 경량화**: LLM(LLaMA-2) QLoRA 파인튜닝과 3D 시선 추정(L2CS-Net) 및 컴퓨터 비전 모델을 실시간(30 FPS) 환경에 맞게 수학적/통계적 버퍼 로직으로 경량 최적화합니다.
-- 🤖 **AI-Native Software Engineering**: 온디바이스 AI(Gemma 4 LiteRT-LM) 및 AI 코딩 에이전트 전역 수칙(`AGENTS.md`)을 설계하여 E2E 자동 검증 기반의 소프트웨어 자율 개발 파이프라인을 제어합니다.
-- 🔬 **기술 깊이 탐구 & 오개념 정제**: `Today Kang Learned (TKL)` 레포지토리를 통해 언어 메커니즘과 노하우를 나만의 언어로 기록하고 아카이빙합니다.
-- 💼 **산업 현장 경험**: 바이오/유전체 인공지능 분야(`hnbgenomics`)에서 보안을 준수하며 기술 스택 적용 및 실무 비즈니스 문제 해결 경험 보유하고 있습니다.
+- 🧠 **AI/ML 모델 최적화 & 경량화**: LLM(LLaMA-2) QLoRA 파인튜닝과 3D 시선 추정(L2CS-Net) 및 컴퓨터 비전 모델을 실시간(30 FPS) 환경에 맞게 수학적/통계적 버퍼 로직으로 경량/최적화 수행
+- 🤖 **AI-Native Software Engineering**: AI 코딩 에이전트 전역 수칙(`AGENTS.md`)을 설계하여 E2E 자동 검증 기반의 소프트웨어 자율 개발 파이프라인으로 온디바이스 AI(Gemma 4 LiteRT-LM) 구현 중
+- 🔬 **기술 깊이 탐구 & 오개념 정제**: `Today Kang Learned (TKL)` 레포지토리를 통해 노하우를 나만의 언어로 기록하고 아카이빙
+- 💼 **산업 현장 경험**: 바이오/유전체 인공지능 분야(`hnbgenomics`)에서 보안을 준수하며 기술 스택 적용 및 실무 비즈니스 문제 해결 경험 보유
 
 ---
 
