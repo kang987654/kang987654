@@ -49,7 +49,7 @@
 | :--- | :--- | :--- | :---: |
 | **AI-Healthytalk** | • LLaMA-2-Ko-7B QLoRA 양자화 파인튜닝<br/>• 정규표현식 파서 및 대화 히스토리 슬라이딩 윈도우<br/>• Streamlit 대화형 UI & 쿠키 기반 세션 관리 | `Python`, `PyTorch`, `PEFT`, `BitsAndBytes`, `Streamlit` | [Repo](https://github.com/Ah-MaQ/AI-Healthytalk) |
 | **Mom's Watch** | • L2CS-Net 기반 3D 시선 추정 & Moving Average 캘리브레이션<br/>• 중량 3D-CNN 대신 눈 깜빡임/분산 기반 **30 FPS 경량화 최적화**<br/>• Flask 비동기 MJPEG 웹캠 스트리밍 백엔드 구축 | `Python`, `OpenCV`, `PyTorch`, `L2CS-Net`, `Flask` | [Repo](https://github.com/Ah-MaQ/MOMs_WATCH) |
-| **KOSMOS (`lets_meet_on_friday`)** | • On-Device AI (Gemma 4) 멀티 에이전트 앱<br/>• `AGENTS.md` 지침 설계 및 AI 에이전트 자율 개발 지시<br/>• Robolectric E2E 검증 기반 피드백 디버깅 파이프라인 | `Kotlin`, `LiteRT-LM`, `Clean Architecture`, `Hilt`, `Robolectric` | `Private` |
+| **KOSMOS (`lets_meet_on_friday`)** | • On-Device AI (Gemma 4) 멀티 에이전트 앱<br/>• `AGENTS.md` 지침 설계 및 AI 에이전트 자율 개발 지시<br/>• Robolectric E2E 검증 기반 피드백 디버깅 파이프라인 | `Kotlin`, `LiteRT-LM`, `Clean Architecture`, `Hilt`, `Robolectric` | [Repo](https://github.com/kang987654/lets_meet_on_friday) |
 | **TKL (Today Kang Learned)** | • *"My universe with TwinKLe stars"* 지식 아카이브<br/>• 기술 오개념(Misconception) 해소 중심의 깊이 있는 원리 분석<br/>• AI 트러블슈팅 및 프로그래밍 메커니즘 문서화 | `Markdown`, `Python`, `AI / ML`, `Git` | [Repo](https://github.com/kang987654/TKL) |
 
 ---
